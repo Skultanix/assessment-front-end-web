@@ -36,3 +36,36 @@ input {
 img {
 	max-width: 300px;
 }
+
+#profile-image {
+	border-radius: 50%;
+}
+
+#skills-section {
+	border: 2px solid orange;
+    background-color: whitesmoke;
+	padding: 5px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+#hobbies-interests {
+	border: 2px solid orange;
+    background-color: whitesmoke;
+	padding: 5px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+ul {
+	display: list-item;
+	list-style-type: square;
+	list-style-position: inside;
+}
+
+.subsection-image {
+	max-width: 150px;
+	border-radius: 25%;
+}
