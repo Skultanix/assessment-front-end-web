@@ -73,3 +73,18 @@ ul {
 	display: flex;
 	align-items: center;
 }
+#btn-section {
+	display: flex;
+	flex-direction: row;
+	padding-top: 30px;
+}
+.fav-btns {
+	width: 20%;
+	border-radius: 25%;
+	border: none;
+	background-color: yellow;
+	padding: 5px 20px;
+	font-size: medium;
+	cursor: pointer;
+	text-align: center;
+}
