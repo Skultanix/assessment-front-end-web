@@ -69,3 +69,7 @@ ul {
 	max-width: 150px;
 	border-radius: 25%;
 }
+.image-format {
+	display: flex;
+	align-items: center;
+}
